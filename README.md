@@ -1,2 +1,2 @@
 # M-s-Projects
-This is my first FnB app 2025 project
+This is a documentation of a my attempt at coding
